@@ -2,4 +2,4 @@
 mocked backend server powered by jasonplacehold
 
 # Quick start
-my-json-server.typicode.com/user/repo/posts/1
+my-json-server.typicode.com/maple24/myJsonServer/posts/1
